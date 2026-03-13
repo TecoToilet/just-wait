@@ -1,6 +1,7 @@
 # Just Wait 🎣
 
 > A fisherman's patience for your attention span.
+vibe coded with claude
 
 ---
 
