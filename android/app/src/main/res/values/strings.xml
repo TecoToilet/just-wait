@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Wait</string>
+    <string name="accessibility_service_description">Just Wait monitors app launches to activate attention gates for guarded apps. No data is collected or transmitted.</string>
+</resources>
