@@ -153,12 +153,5 @@ is opened so Just Wait can show the attention gate." No data leaves the device.
 
 ---
 
-## The philosophy
 
-You built this because you understood the hook before you named it.
 
-Every time Just Wait makes you wait, it's just the fisherman's patience
-applied to your own attention. The fish don't come to you.
-You wait for them.
-
-— built from a banana theory and a bike ride home
